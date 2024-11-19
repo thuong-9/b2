@@ -1,0 +1,16 @@
+:root {
+    --text-color: red;
+}
+h1 {
+    color:var(--text-color);
+}
+p{
+    --my-color:green;
+    color:var(--my-color);
+}
+li {
+    color:violet !important;
+}
+* {
+    color: blue;
+}
